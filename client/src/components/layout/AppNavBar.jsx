@@ -10,10 +10,10 @@ const AppNavBar = () => {
             <div className="col-md-6">
               <span>
                 <span className="f-12">
-                  <i className="bi bi-envelope"></i> Support@PlanB.com{" "}
+                  <i className="bi bi-envelope"></i> anonymousnahidhasan@gmail.com{" "}
                 </span>
                 <span className="f-12 mx-2">
-                  <i className="bi bi-envelope"></i> 01774688159{" "}
+                  <i className="bi bi-phone-fill"></i> 01775006172{" "}
                 </span>
               </span>
             </div>
